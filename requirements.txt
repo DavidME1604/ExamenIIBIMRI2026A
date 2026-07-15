@@ -1,0 +1,7 @@
+kagglehub
+pandas
+sentence-transformers
+chromadb>=1.5.9
+google-genai
+gradio
+python-dotenv
